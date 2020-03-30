@@ -1,0 +1,3 @@
+D:/Development/injector/cmake-build-debug/CMakeFiles/injector.dir
+D:/Development/injector/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Development/injector/cmake-build-debug/CMakeFiles/rebuild_cache.dir
